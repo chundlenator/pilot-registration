@@ -6,7 +6,7 @@
 <p align="center"><i>Department of Justice and Human Resources · Pilot Services</i></p>
 
 ---
-
+====THIS IS COMPLETELY HARMLESS FOR LANCER TTRPG INTRO SPOOKY SHENANGANS, I AM NOT an evil guy.====
 Welcome, applicant.
 
 Before your first deployment, DoJ/HR requires every pilot to complete a short registration interview.
