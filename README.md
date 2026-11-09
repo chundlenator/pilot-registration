@@ -32,4 +32,4 @@ If the client stops responding, press **Alt + F4**.
 ---
 
 <sub>Unofficial fan-made prop for a LANCER tabletop campaign. Not affiliated with Massif Press.
-It changes no settings on your computer and only writes two small text files to your Desktop.</sub>
+It changes no settings on your computer and only writes one small text file to your Desktop.</sub>
