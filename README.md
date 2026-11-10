@@ -20,6 +20,11 @@ This client records your answers and forwards them to your assigned administrato
 4. Answer every question honestly.
 5. When the interview is complete, send your pilot record file to your administrator.
 
+### On a Chromebook, Mac or any other laptop
+
+No download needed: **[open the registration client in your browser](https://chundlenator.github.io/pilot-registration/)**.
+Use Chrome or Edge, turn your sound on, and at the end your pilot record is saved to your **Downloads** folder.
+
 ### "Windows protected your PC"
 
 The registration client is Union software and is not signed by a Cradle-era certificate authority.
